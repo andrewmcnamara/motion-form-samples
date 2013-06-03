@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.0.4)
+    sugarcube (0.20.22)
+    sweettea (0.5.6)
+      rake
+      sugarcube
+      teacup
+    teacup (2.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sugarcube
+  sweettea
+  teacup

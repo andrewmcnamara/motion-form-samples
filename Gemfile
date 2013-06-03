@@ -1,4 +1,5 @@
 # A sample Gemfile
 source "https://rubygems.org"
-gem "teacup"
-# gem "rails"
+gem 'sugarcube'
+gem 'teacup'
+gem 'sweettea'
